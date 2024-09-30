@@ -1,6 +1,6 @@
 - 👋 Hi, I am Meara
 
-## Computer Science student at The University of South Carolina
+## Computer Science student @ University of South Carolina
 
 ```javascript
 let mearacox = {
@@ -17,7 +17,7 @@ let mearacox = {
         databases: ["MSSQL", "MySQL", "NoSQL"]
     },
     currentFocus: "Developing web applications that leverage the powers of AI to improve the way people work!",
-    university: ["University of South Carolina“, "Computer Science", "2025”]
+    university: ["University of South Carolina", "Computer Science", "2025"]
 };
 ```
 
