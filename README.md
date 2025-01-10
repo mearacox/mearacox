@@ -4,19 +4,18 @@
 
 ```javascript
 let mearacox = {
-    askMeAbout: ["Azure", "LLMs", "Frontend", "Backend", "Sports", "Outdoors"],
+    askMeAbout: ["Mobile Dev", "Web Dev", "Data Structures", "Softball"],
     technologies: {
         code: {
-            ["JavaScript", "TypeScript", "Python", "PHP"]
+            ["JavaScript", "TypeScript", "Java", "C++"]
         },
         frameworks: {
-            ["React", "Next.js", "Express.js", "Flask"]
+            ["React Native"]
         },
-        cloud: ["Azure", "AWS"],
-        git: ["GitHub", "GitLab", "Azure DevOps"],
-        databases: ["MSSQL", "MySQL", "NoSQL"]
+        cloud: ["Firebase"],
+        git: ["GitHub"]
     },
-    currentFocus: "Developing web applications that leverage the powers of AI to improve the way people work!",
+    currentFocus: "Searching for which specific discipline interests me most",
     university: ["University of South Carolina", "Computer Science", "2025"]
 };
 ```
