@@ -22,6 +22,3 @@ let mearacox = {
 
 #### 📫 ___Feel free to reach out:___
 [![Linkedin Badge](https://img.shields.io/badge/-Meara%20Cox-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mearacox/)](https://www.linkedin.com/in/mearacox/)
-
-## __Stats__
-[![Meara Cox](https://github-readme-stats.vercel.app/api?username=mearacox&show_icons=true&count_private=true&theme=dark)](https://github.com/mearacox)
